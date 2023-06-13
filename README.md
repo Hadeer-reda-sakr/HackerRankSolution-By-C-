@@ -1,1 +1,1 @@
-# HackerRankSolution-By-C-
+# HackerRankSolution-By-C++
